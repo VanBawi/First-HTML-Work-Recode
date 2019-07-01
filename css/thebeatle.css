@@ -7,7 +7,7 @@ h1{
 }
 
 .button {
-    background-color: #4CAF50; /* Green */
+    background-color: rgb(222, 238, 222); /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
